@@ -1,6 +1,5 @@
 var  mp=new Map();
 function DC(){
-	var  h="HI";
 	this.cmycd=$("#fromCmpnyOfDcPrcs").val();
 	this.strcd=$("#strCdOfDcProcsTmp").val();
 	this.dptcd=$("#dptCdOfDcPrcs").val();
